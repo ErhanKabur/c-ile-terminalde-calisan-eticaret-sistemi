@@ -12,7 +12,7 @@ Müşteri girişi yapıldığında şu işlemler yapılabilir:
 - Siparişler `siparisler.txt` dosyasına otomatik olarak kaydedilir
 - Sipariş ID'si her siparişte otomatik artar ve `siparis_id.txt` dosyasında tutulur
 
----
+----
 
 ## Yönetici İşlevleri
 
@@ -32,7 +32,7 @@ Yönetici girişi yapıldığında şu işlemler yapılabilir:
 4. **Çıkış Yapma**
 - Yönetici panelinden çıkılır.
 
----
+----
 
 ## Dosyalar
 
